@@ -12,4 +12,7 @@
 		<module>eShopCommon</module>
 		<module>eShopParent</module>
 	</modules>
+
+	<dependencies>
+	</dependencies>
 </project>
